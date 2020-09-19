@@ -1,0 +1,77 @@
+#google-btn{
+    width:290px;
+    font-weight: 300;
+    background-color:white;
+    color:black;
+    position: absolute;
+    bottom:68px;
+    left:40%;
+    border:1px solid blue;
+    border-radius: 40px;
+}
+.registration-form{
+    width:350px;
+    height: auto;
+    background-color :white;
+    position: absolute;
+    top:90px;
+    left:38%;
+    padding:40px;
+    border:.5px solid black;
+    margin:auto;
+}
+.form-input{
+    width:100%;
+    padding:5px 0px;
+    font-size:16px;
+    border:none;
+    margin:10px 0px;
+    border:none;
+    border-bottom: 2px solid #333;
+    outline:none;
+    
+}
+.submit-btn{
+    background-color: orange;
+    padding:5px 30px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 5px;
+    border:none;
+    margin-top:8px;
+    margin-left:20px;
+}
+#new-btn{
+    background-color:white;
+    color:black;
+    position: relative;
+    top:30px;
+    left:20px;
+    margin-bottom:5px;
+    border:none;
+}
+#fb-btn{
+    width:290px;
+    font-weight: 300;
+    background-color:white;
+    color:black;
+    position: absolute;
+    bottom:20px;
+    left:40%;
+    border:1px solid blue;
+    border-radius: 40px;
+    padding:"10px";
+
+}
+.or{
+    justify-content: center;
+    text-align: center;
+    width:290px;
+    position: relative;
+    top:500px;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    margin:10px 0px;
+    color:black;
+    margin:auto;
+}

@@ -1,0 +1,26 @@
+
+.home{
+    background-image: url('../../data/Image/background2.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size: cover;
+    background-position: center center;
+    height: 650px;
+   ;
+   
+}
+img{
+    width : 100px;
+    height:200px;
+}
+#carousel{
+    margin-top:80px;
+    margin-bottom: 80px;
+}
+#button{
+    position: absolute;
+    left:220px;
+    bottom:20px;
+    padding:10px 20px;
+}

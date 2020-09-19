@@ -1,0 +1,25 @@
+
+
+.text{
+    justify-content: center;
+    text-align: center;
+    margin-top:100px;
+   margin-left:50px ;
+   
+
+}
+h1{
+    color: white;
+    font-family: "Elephant";
+    font-size: 65px;
+}
+p{
+color:white;
+padding:10px;
+}
+.col-md-4{
+    background-color: rgba(0, 0, 0, 0.411);
+    margin-left:50px;
+    margin-top:50px;
+    padding:20px;
+}

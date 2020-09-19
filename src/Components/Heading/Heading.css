@@ -1,0 +1,19 @@
+.container{
+    color: aliceblue;
+    
+}
+#nav-bar{
+    text-decoration: none;
+    color:white;
+}
+#input{
+width: 25%;
+font-size: 16px;
+/* margin:10px 0px; */
+border:none;
+background-color: rgba(333,333,333,.5);
+border-bottom: 2px solid #333;
+outline: none;
+color: white;
+
+}
